@@ -1,1 +1,315 @@
+{
+  "afghanistan": {
+    "english": "Afghanistan",
+    "local": "Afghanistan",
+    "pronunciation": "af-GAN-ih-stan",
+    "aliases": ["afganistan"]
+  },
 
+  "albania": {
+    "english": "Albania",
+    "local": "Shqipëria",
+    "pronunciation": "shchee-PEH-ria",
+    "aliases": ["arnavutluk"]
+  },
+
+  "algeria": {
+    "english": "Algeria",
+    "local": "Al-Jazair",
+    "pronunciation": "al-ja-ZYE-er",
+    "aliases": ["cezayir"]
+  },
+
+  "andorra": {
+    "english": "Andorra",
+    "local": "Andorra",
+    "pronunciation": "an-DOR-ah",
+    "aliases": []
+  },
+
+  "angola": {
+    "english": "Angola",
+    "local": "Angola",
+    "pronunciation": "an-GO-la",
+    "aliases": []
+  },
+
+  "argentina": {
+    "english": "Argentina",
+    "local": "Argentina",
+    "pronunciation": "ar-hen-TEE-na",
+    "aliases": []
+  },
+
+  "armenia": {
+    "english": "Armenia",
+    "local": "Hayastan",
+    "pronunciation": "hye-as-TAN",
+    "aliases": ["ermenistan"]
+  },
+
+  "australia": {
+    "english": "Australia",
+    "local": "Australia",
+    "pronunciation": "aw-STRAY-lee-a",
+    "aliases": ["avustralya"]
+  },
+
+  "austria": {
+    "english": "Austria",
+    "local": "Österreich",
+    "pronunciation": "URR-ster-rike",
+    "aliases": ["avusturya"]
+  },
+
+  "azerbaijan": {
+    "english": "Azerbaijan",
+    "local": "Azərbaycan",
+    "pronunciation": "ah-zer-bye-JAHN",
+    "aliases": ["azerbaycan"]
+  },
+
+  "bahamas": {
+    "english": "Bahamas",
+    "local": "Bahamas",
+    "pronunciation": "ba-HAH-mas",
+    "aliases": []
+  },
+
+  "bahrain": {
+    "english": "Bahrain",
+    "local": "Al-Bahrain",
+    "pronunciation": "bah-RAYN",
+    "aliases": []
+  },
+
+  "bangladesh": {
+    "english": "Bangladesh",
+    "local": "Bangladesh",
+    "pronunciation": "bang-la-DESH",
+    "aliases": []
+  },
+
+  "belarus": {
+    "english": "Belarus",
+    "local": "Belarus",
+    "pronunciation": "bella-ROOS",
+    "aliases": []
+  },
+
+  "belgium": {
+    "english": "Belgium",
+    "local": "België",
+    "pronunciation": "BEL-jum",
+    "aliases": ["belçika"]
+  },
+
+  "belize": {
+    "english": "Belize",
+    "local": "Belize",
+    "pronunciation": "buh-LEEZ",
+    "aliases": []
+  },
+
+  "benin": {
+    "english": "Benin",
+    "local": "Bénin",
+    "pronunciation": "beh-NEEN",
+    "aliases": []
+  },
+
+  "bhutan": {
+    "english": "Bhutan",
+    "local": "Druk Yul",
+    "pronunciation": "boo-TAN",
+    "aliases": []
+  },
+
+  "bolivia": {
+    "english": "Bolivia",
+    "local": "Bolivia",
+    "pronunciation": "bo-LIV-ee-a",
+    "aliases": []
+  },
+
+  "bosnia": {
+    "english": "Bosnia and Herzegovina",
+    "local": "Bosna i Hercegovina",
+    "pronunciation": "BOZ-na ee her-tseh-go-VEE-na",
+    "aliases": ["bosna", "bosna hersek"]
+  },
+
+  "botswana": {
+    "english": "Botswana",
+    "local": "Botswana",
+    "pronunciation": "bot-SWA-na",
+    "aliases": []
+  },
+
+  "brazil": {
+    "english": "Brazil",
+    "local": "Brasil",
+    "pronunciation": "bra-ZEEL",
+    "aliases": ["brezilya"]
+  },
+
+  "brunei": {
+    "english": "Brunei",
+    "local": "Brunei Darussalam",
+    "pronunciation": "broo-NYE",
+    "aliases": []
+  },
+
+  "bulgaria": {
+    "english": "Bulgaria",
+    "local": "Balgariya",
+    "pronunciation": "bul-GAIR-ee-a",
+    "aliases": ["bulgaristan"]
+  },
+
+  "burkinafaso": {
+    "english": "Burkina Faso",
+    "local": "Burkina Faso",
+    "pronunciation": "bur-KEE-na FA-so",
+    "aliases": []
+  },
+
+  "burundi": {
+    "english": "Burundi",
+    "local": "Burundi",
+    "pronunciation": "boo-RUN-dee",
+    "aliases": []
+  },
+
+  "cambodia": {
+    "english": "Cambodia",
+    "local": "Kampuchea",
+    "pronunciation": "kam-BO-dee-a",
+    "aliases": ["kamboçya"]
+  },
+
+  "cameroon": {
+    "english": "Cameroon",
+    "local": "Cameroun",
+    "pronunciation": "cam-er-OON",
+    "aliases": ["kamerun"]
+  },
+
+  "canada": {
+    "english": "Canada",
+    "local": "Canada",
+    "pronunciation": "KAN-a-da",
+    "aliases": ["kanada"]
+  },
+
+  "chile": {
+    "english": "Chile",
+    "local": "Chile",
+    "pronunciation": "CHILL-ee",
+    "aliases": ["şili"]
+  },
+
+  "china": {
+    "english": "China",
+    "local": "Zhongguo",
+    "pronunciation": "jong-GWO",
+    "aliases": ["çin"]
+  },
+
+  "colombia": {
+    "english": "Colombia",
+    "local": "Colombia",
+    "pronunciation": "co-LOM-bee-a",
+    "aliases": ["kolombiya"]
+  },
+
+  "croatia": {
+    "english": "Croatia",
+    "local": "Hrvatska",
+    "pronunciation": "hur-VAHT-ska",
+    "aliases": ["hırvatistan"]
+  },
+
+  "cuba": {
+    "english": "Cuba",
+    "local": "Cuba",
+    "pronunciation": "KYOO-ba",
+    "aliases": ["küba"]
+  },
+
+  "cyprus": {
+    "english": "Cyprus",
+    "local": "Kypros",
+    "pronunciation": "KAI-pros",
+    "aliases": ["kıbrıs"]
+  },
+
+  "czechia": {
+    "english": "Czechia",
+    "local": "Česko",
+    "pronunciation": "CHESS-ko",
+    "aliases": ["çekya", "çek cumhuriyeti"]
+  },
+
+  "denmark": {
+    "english": "Denmark",
+    "local": "Danmark",
+    "pronunciation": "DAN-mark",
+    "aliases": ["danimarka"]
+  },
+
+  "egypt": {
+    "english": "Egypt",
+    "local": "Misr",
+    "pronunciation": "MEE-ser",
+    "aliases": ["mısır"]
+  },
+
+  "estonia": {
+    "english": "Estonia",
+    "local": "Eesti",
+    "pronunciation": "AYS-tee",
+    "aliases": ["estonya"]
+  },
+
+  "ethiopia": {
+    "english": "Ethiopia",
+    "local": "Ityop'iya",
+    "pronunciation": "ee-thee-OH-pee-a",
+    "aliases": ["etiyopya"]
+  },
+
+  "finland": {
+    "english": "Finland",
+    "local": "Suomi",
+    "pronunciation": "SUO-mee",
+    "aliases": ["finlandiya"]
+  },
+
+  "france": {
+    "english": "France",
+    "local": "France",
+    "pronunciation": "FRAHNCE",
+    "aliases": ["fransa"]
+  },
+
+  "georgia": {
+    "english": "Georgia",
+    "local": "Sakartvelo",
+    "pronunciation": "sa-kart-VE-lo",
+    "aliases": ["gürcistan"]
+  },
+
+  "germany": {
+    "english": "Germany",
+    "local": "Deutschland",
+    "pronunciation": "DOYTCH-land",
+    "aliases": ["almanya", "deutschland"]
+  },
+
+  "greece": {
+    "english": "Greece",
+    "local": "Hellas",
+    "pronunciation": "HEL-las",
+    "aliases": ["yunanistan"]
+  }

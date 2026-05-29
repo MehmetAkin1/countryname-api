@@ -28,26 +28,29 @@ function findCountry(query) {
 export default function handler(req, res) {
 
   const name = req.query.name;
+  const cleanName =
+  typeof name === "string"
+    ? name.trim()
+    : "";
 
   // RANDOM
-  if (
-    !name ||
-    name === "$(1)" ||
-    name.trim() === ""
-  ) {
+if (
+  !cleanName ||
+  cleanName === "$(1)"
+) {
 
-    const keys =
-      Object.keys(countries);
+  const keys =
+    Object.keys(countries);
 
-    const randomKey =
-      keys[Math.floor(Math.random() * keys.length)];
+  const randomKey =
+    keys[Math.floor(Math.random() * keys.length)];
 
-    const c = countries[randomKey];
+  const c = countries[randomKey];
 
-    return res.status(200).send(
-      `🌍 ${c.english} • ${c.local} • Pronounced: ${c.pronunciation}`
-    );
-  }
+  return res.status(200).send(
+    `🌍 ${c.english} • ${c.local} • Pronounced: ${c.pronunciation}`
+  );
+}
 
   // SPECIFIC
   const country =

@@ -312,5 +312,1027 @@
     "local": "Hellas",
     "pronunciation": "HEL-las",
     "aliases": ["yunanistan"]
+  },
+  
+  "hungary": {
+    "english": "Hungary",
+    "local": "Magyarország",
+    "pronunciation": "MOD-yor-or-sag",
+    "aliases": ["macaristan"]
+  },
+
+  "iceland": {
+    "english": "Iceland",
+    "local": "Ísland",
+    "pronunciation": "EES-land",
+    "aliases": ["izlanda"]
+  },
+
+  "india": {
+    "english": "India",
+    "local": "Bharat",
+    "pronunciation": "BUH-rut",
+    "aliases": ["hindistan"]
+  },
+
+  "indonesia": {
+    "english": "Indonesia",
+    "local": "Indonesia",
+    "pronunciation": "in-do-NEE-zha",
+    "aliases": ["endonezya"]
+  },
+
+  "iran": {
+    "english": "Iran",
+    "local": "Iran",
+    "pronunciation": "ee-RAHN",
+    "aliases": []
+  },
+
+  "iraq": {
+    "english": "Iraq",
+    "local": "Al-Iraq",
+    "pronunciation": "ee-RAHK",
+    "aliases": ["irak"]
+  },
+
+  "ireland": {
+    "english": "Ireland",
+    "local": "Éire",
+    "pronunciation": "AIR-a",
+    "aliases": ["irlanda"]
+  },
+
+  "israel": {
+    "english": "Israel",
+    "local": "Yisrael",
+    "pronunciation": "YIZ-rah-el",
+    "aliases": ["israil"]
+  },
+
+  "italy": {
+    "english": "Italy",
+    "local": "Italia",
+    "pronunciation": "ee-TAH-lya",
+    "aliases": ["italya"]
+  },
+
+  "japan": {
+    "english": "Japan",
+    "local": "Nihon",
+    "pronunciation": "NEE-hon",
+    "aliases": ["japonya", "nippon"]
+  },
+
+  "jordan": {
+    "english": "Jordan",
+    "local": "Al-Urdunn",
+    "pronunciation": "JOR-dan",
+    "aliases": ["ürdün"]
+  },
+
+  "kazakhstan": {
+    "english": "Kazakhstan",
+    "local": "Qazaqstan",
+    "pronunciation": "ka-zak-STAHN",
+    "aliases": ["kazakistan"]
+  },
+
+  "kenya": {
+    "english": "Kenya",
+    "local": "Kenya",
+    "pronunciation": "KEN-ya",
+    "aliases": []
+  },
+
+  "kuwait": {
+    "english": "Kuwait",
+    "local": "Al-Kuwait",
+    "pronunciation": "koo-WAIT",
+    "aliases": ["kuveyt"]
+  },
+
+  "kyrgyzstan": {
+    "english": "Kyrgyzstan",
+    "local": "Kyrgyzstan",
+    "pronunciation": "كير-giz-STAN",
+    "aliases": ["kırgızistan"]
+  },
+
+  "laos": {
+    "english": "Laos",
+    "local": "Lao",
+    "pronunciation": "LAO",
+    "aliases": ["laos"]
+  },
+
+  "latvia": {
+    "english": "Latvia",
+    "local": "Latvija",
+    "pronunciation": "LAT-vee-ya",
+    "aliases": ["letonya"]
+  },
+
+  "lebanon": {
+    "english": "Lebanon",
+    "local": "Lubnan",
+    "pronunciation": "LOOB-nan",
+    "aliases": ["lübnan"]
+  },
+
+  "libya": {
+    "english": "Libya",
+    "local": "Libya",
+    "pronunciation": "LIB-ee-a",
+    "aliases": ["libya"]
+  },
+
+  "lithuania": {
+    "english": "Lithuania",
+    "local": "Lietuva",
+    "pronunciation": "lee-eh-TOO-va",
+    "aliases": ["litvanya"]
+  },
+
+  "luxembourg": {
+    "english": "Luxembourg",
+    "local": "Lëtzebuerg",
+    "pronunciation": "LET-zeh-boorg",
+    "aliases": ["lüksemburg"]
+  },
+
+  "madagascar": {
+    "english": "Madagascar",
+    "local": "Madagasikara",
+    "pronunciation": "mad-a-gas-CAR",
+    "aliases": ["madagaskar"]
+  },
+
+  "malaysia": {
+    "english": "Malaysia",
+    "local": "Malaysia",
+    "pronunciation": "mah-LAY-zha",
+    "aliases": ["malezya"]
+  },
+
+  "maldives": {
+    "english": "Maldives",
+    "local": "Dhivehi Raajje",
+    "pronunciation": "DEE-veh-hee RAA-je",
+    "aliases": ["maldivler"]
+  },
+
+  "mexico": {
+    "english": "Mexico",
+    "local": "México",
+    "pronunciation": "MEH-hee-ko",
+    "aliases": ["meksika"]
+  },
+
+  "mongolia": {
+    "english": "Mongolia",
+    "local": "Mongol Uls",
+    "pronunciation": "MON-gol ools",
+    "aliases": ["moğolistan"]
+  },
+
+  "morocco": {
+    "english": "Morocco",
+    "local": "Al-Maghrib",
+    "pronunciation": "ma-GRIB",
+    "aliases": ["fas"]
+  },
+
+  "myanmar": {
+    "english": "Myanmar",
+    "local": "Myanma",
+    "pronunciation": "MYAN-mar",
+    "aliases": ["burma"]
+  },
+
+  "nepal": {
+    "english": "Nepal",
+    "local": "Nepal",
+    "pronunciation": "neh-PAL",
+    "aliases": []
+  },
+
+  "netherlands": {
+    "english": "Netherlands",
+    "local": "Nederland",
+    "pronunciation": "NAY-der-land",
+    "aliases": ["hollanda"]
+  },
+
+  "newzealand": {
+    "english": "New Zealand",
+    "local": "Aotearoa",
+    "pronunciation": "ow-teh-ah-ROA",
+    "aliases": ["yeni zelanda"]
+  },
+
+  "nigeria": {
+    "english": "Nigeria",
+    "local": "Nigeria",
+    "pronunciation": "nye-JEER-ee-a",
+    "aliases": ["nijerya"]
+  },
+
+  "northkorea": {
+    "english": "North Korea",
+    "local": "Joseon",
+    "pronunciation": "jo-sun",
+    "aliases": ["kuzey kore"]
+  },
+
+  "norway": {
+    "english": "Norway",
+    "local": "Norge",
+    "pronunciation": "NOR-guh",
+    "aliases": ["norveç"]
+  },
+
+  "pakistan": {
+    "english": "Pakistan",
+    "local": "Pakistan",
+    "pronunciation": "PAK-ih-stan",
+    "aliases": []
+  },
+
+  "palestine": {
+    "english": "Palestine",
+    "local": "Filastin",
+    "pronunciation": "fee-las-TEEN",
+    "aliases": ["filistin"]
+  },
+
+  "peru": {
+    "english": "Peru",
+    "local": "Perú",
+    "pronunciation": "peh-ROO",
+    "aliases": []
+  },
+
+  "philippines": {
+    "english": "Philippines",
+    "local": "Pilipinas",
+    "pronunciation": "pee-lee-PEE-nas",
+    "aliases": ["filipinler"]
+  },
+
+  "poland": {
+    "english": "Poland",
+    "local": "Polska",
+    "pronunciation": "POL-ska",
+    "aliases": ["polonya"]
+  },
+
+  "portugal": {
+    "english": "Portugal",
+    "local": "Portugal",
+    "pronunciation": "por-too-GAL",
+    "aliases": ["portekiz"]
+  },
+
+  "qatar": {
+    "english": "Qatar",
+    "local": "Qatar",
+    "pronunciation": "KUH-tar",
+    "aliases": ["katar"]
+  },
+  
+  "romania": {
+    "english": "Romania",
+    "local": "România",
+    "pronunciation": "ro-ma-NEE-a",
+    "aliases": ["romanya"]
+  },
+
+  "russia": {
+    "english": "Russia",
+    "local": "Rossiya",
+    "pronunciation": "ross-SEE-ya",
+    "aliases": ["rusya"]
+  },
+
+  "saudiarabia": {
+    "english": "Saudi Arabia",
+    "local": "Al-Arabiyah as-Suudiyah",
+    "pronunciation": "ah-ra-BEE-ya as-soo-OO-dee-ya",
+    "aliases": ["suudi arabistan"]
+  },
+
+  "serbia": {
+    "english": "Serbia",
+    "local": "Srbija",
+    "pronunciation": "SUR-bee-ya",
+    "aliases": ["sırbistan"]
+  },
+
+  "singapore": {
+    "english": "Singapore",
+    "local": "Singapura",
+    "pronunciation": "sing-ah-POOR-ah",
+    "aliases": ["singapur"]
+  },
+
+  "slovakia": {
+    "english": "Slovakia",
+    "local": "Slovensko",
+    "pronunciation": "slo-VEN-sko",
+    "aliases": ["slovakya"]
+  },
+
+  "slovenia": {
+    "english": "Slovenia",
+    "local": "Slovenija",
+    "pronunciation": "slo-VEN-ee-ya",
+    "aliases": ["slovenya"]
+  },
+
+  "somalia": {
+    "english": "Somalia",
+    "local": "Soomaaliya",
+    "pronunciation": "so-ma-LEE-ya",
+    "aliases": ["somali"]
+  },
+
+  "southafrica": {
+    "english": "South Africa",
+    "local": "Suid-Afrika",
+    "pronunciation": "soyde-afrika",
+    "aliases": ["güney afrika"]
+  },
+
+  "southkorea": {
+    "english": "South Korea",
+    "local": "Hanguk",
+    "pronunciation": "HAN-gook",
+    "aliases": ["güney kore"]
+  },
+
+  "spain": {
+    "english": "Spain",
+    "local": "España",
+    "pronunciation": "es-PAN-ya",
+    "aliases": ["ispanya"]
+  },
+
+  "srilanka": {
+    "english": "Sri Lanka",
+    "local": "Sri Lanka",
+    "pronunciation": "shree-LAHN-ka",
+    "aliases": ["sri lanka"]
+  },
+
+  "sweden": {
+    "english": "Sweden",
+    "local": "Sverige",
+    "pronunciation": "SVAIR-yeh",
+    "aliases": ["isveç"]
+  },
+
+  "switzerland": {
+    "english": "Switzerland",
+    "local": "Schweiz",
+    "pronunciation": "SHVITES",
+    "aliases": ["isviçre"]
+  },
+
+  "syria": {
+    "english": "Syria",
+    "local": "Suriya",
+    "pronunciation": "SOO-ree-ya",
+    "aliases": ["suriye"]
+  },
+
+  "taiwan": {
+    "english": "Taiwan",
+    "local": "Taiwan",
+    "pronunciation": "tie-WAHN",
+    "aliases": []
+  },
+
+  "tajikistan": {
+    "english": "Tajikistan",
+    "local": "Tojikiston",
+    "pronunciation": "toh-jeek-iss-TAN",
+    "aliases": ["tacikistan"]
+  },
+
+  "thailand": {
+    "english": "Thailand",
+    "local": "Prathet Thai",
+    "pronunciation": "PRAH-tet tie",
+    "aliases": ["tayland"]
+  },
+
+  "tunisia": {
+    "english": "Tunisia",
+    "local": "Tunis",
+    "pronunciation": "TOO-niss",
+    "aliases": ["tunus"]
+  },
+
+  "turkey": {
+    "english": "Turkey",
+    "local": "Türkiye",
+    "pronunciation": "TUR-key-yeh",
+    "aliases": ["türkiye", "turkiye"]
+  },
+
+  "turkmenistan": {
+    "english": "Turkmenistan",
+    "local": "Türkmenistan",
+    "pronunciation": "turk-men-iss-TAN",
+    "aliases": []
+  },
+
+  "ukraine": {
+    "english": "Ukraine",
+    "local": "Ukrayina",
+    "pronunciation": "oo-krah-YEE-na",
+    "aliases": ["ukrayna"]
+  },
+
+  "unitedarabemirates": {
+    "english": "United Arab Emirates",
+    "local": "Al-Imarat",
+    "pronunciation": "al-ee-ma-rat",
+    "aliases": ["uae", "birleşik arap emirlikleri"]
+  },
+
+  "unitedkingdom": {
+    "english": "United Kingdom",
+    "local": "United Kingdom",
+    "pronunciation": "yu-NIGH-ted KING-dom",
+    "aliases": ["uk", "ingiltere", "britain", "great britain"]
+  },
+
+  "unitedstates": {
+    "english": "United States",
+    "local": "United States",
+    "pronunciation": "yu-NIGH-ted STATES",
+    "aliases": ["usa", "america", "amerika", "abd"]
+  },
+
+  "uruguay": {
+    "english": "Uruguay",
+    "local": "Uruguay",
+    "pronunciation": "yoo-roo-GWAI",
+    "aliases": []
+  },
+
+  "uzbekistan": {
+    "english": "Uzbekistan",
+    "local": "Oʻzbekiston",
+    "pronunciation": "ooz-bek-iss-TAN",
+    "aliases": ["özbekistan"]
+  },
+
+  "venezuela": {
+    "english": "Venezuela",
+    "local": "Venezuela",
+    "pronunciation": "ven-eh-ZWAY-la",
+    "aliases": []
+  },
+
+  "vietnam": {
+    "english": "Vietnam",
+    "local": "Việt Nam",
+    "pronunciation": "vee-et-NAM",
+    "aliases": ["vietnam"]
+  },
+
+  "yemen": {
+    "english": "Yemen",
+    "local": "Al-Yaman",
+    "pronunciation": "al-YAH-man",
+    "aliases": []
+  },
+
+  "zimbabwe": {
+    "english": "Zimbabwe",
+    "local": "Zimbabwe",
+    "pronunciation": "zim-BAHB-way",
+    "aliases": []
+  },
+  
+  "antiguaandbarbuda": {
+    "english": "Antigua and Barbuda",
+    "local": "Antigua and Barbuda",
+    "pronunciation": "an-TEE-gwa and bar-BYOO-da",
+    "aliases": []
+  },
+
+  "bahrein": {
+    "english": "Bahrain",
+    "local": "Al-Bahrain",
+    "pronunciation": "bah-RAYN",
+    "aliases": ["bahreyn"]
+  },
+
+  "barbados": {
+    "english": "Barbados",
+    "local": "Barbados",
+    "pronunciation": "bar-BAY-dose",
+    "aliases": []
+  },
+
+  "belarus2": {
+    "english": "Belarus",
+    "local": "Belarus",
+    "pronunciation": "bella-ROOS",
+    "aliases": ["beyaz rusya"]
+  },
+
+  "capeverde": {
+    "english": "Cape Verde",
+    "local": "Cabo Verde",
+    "pronunciation": "KAH-bo VER-day",
+    "aliases": ["cape verde"]
+  },
+
+  "centralafricanrepublic": {
+    "english": "Central African Republic",
+    "local": "République centrafricaine",
+    "pronunciation": "sen-tral af-ri-kan re-PUB-lic",
+    "aliases": ["orta afrika cumhuriyeti"]
+  },
+
+  "comoros": {
+    "english": "Comoros",
+    "local": "Juzur al-Qamar",
+    "pronunciation": "KO-mo-ros",
+    "aliases": ["komorlar"]
+  },
+
+  "congo": {
+    "english": "Republic of the Congo",
+    "local": "Congo",
+    "pronunciation": "KONG-go",
+    "aliases": ["kongo"]
+  },
+
+  "drcongo": {
+    "english": "Democratic Republic of the Congo",
+    "local": "Congo-Kinshasa",
+    "pronunciation": "dee-ar KONG-go",
+    "aliases": ["democratic republic of congo", "kdc"]
+  },
+
+  "costarica": {
+    "english": "Costa Rica",
+    "local": "Costa Rica",
+    "pronunciation": "COS-ta REE-ka",
+    "aliases": ["kosta rika"]
+  },
+
+  "djibouti": {
+    "english": "Djibouti",
+    "local": "Djibouti",
+    "pronunciation": "ji-BOO-tee",
+    "aliases": []
+  },
+
+  "dominica": {
+    "english": "Dominica",
+    "local": "Dominica",
+    "pronunciation": "dom-in-EE-ka",
+    "aliases": []
+  },
+
+  "dominicanrepublic": {
+    "english": "Dominican Republic",
+    "local": "República Dominicana",
+    "pronunciation": "do-MIN-ican re-PUB-lic",
+    "aliases": ["dominik cumhuriyeti"]
+  },
+
+  "ecuador": {
+    "english": "Ecuador",
+    "local": "Ecuador",
+    "pronunciation": "EK-wa-door",
+    "aliases": ["ekvador"]
+  },
+
+  "elsalvador": {
+    "english": "El Salvador",
+    "local": "El Salvador",
+    "pronunciation": "el sal-va-DOR",
+    "aliases": []
+  },
+
+  "equatorialguinea": {
+    "english": "Equatorial Guinea",
+    "local": "Guinea Ecuatorial",
+    "pronunciation": "ek-wah-TOR-ee-al GIN-ee",
+    "aliases": ["ekvator gine"]
+  },
+
+  "eritrea": {
+    "english": "Eritrea",
+    "local": "Ertra",
+    "pronunciation": "er-ih-TRAY-a",
+    "aliases": ["eritre"]
+  },
+
+  "eswatini": {
+    "english": "Eswatini",
+    "local": "eSwatini",
+    "pronunciation": "es-wa-TEE-nee",
+    "aliases": ["svaziland"]
+  },
+
+  "fiji": {
+    "english": "Fiji",
+    "local": "Fiji",
+    "pronunciation": "FEE-jee",
+    "aliases": ["fiji"]
+  },
+
+  "gabon": {
+    "english": "Gabon",
+    "local": "Gabon",
+    "pronunciation": "ga-BON",
+    "aliases": []
+  },
+
+  "gambia": {
+    "english": "Gambia",
+    "local": "Gambia",
+    "pronunciation": "GAM-bee-a",
+    "aliases": ["gambiya"]
+  },
+
+  "ghana": {
+    "english": "Ghana",
+    "local": "Ghana",
+    "pronunciation": "GAH-na",
+    "aliases": []
+  },
+
+  "grenada": {
+    "english": "Grenada",
+    "local": "Grenada",
+    "pronunciation": "greh-NAY-da",
+    "aliases": []
+  },
+
+  "guatemala": {
+    "english": "Guatemala",
+    "local": "Guatemala",
+    "pronunciation": "gwa-teh-MAH-la",
+    "aliases": ["guatemala"]
+  },
+
+  "guinea": {
+    "english": "Guinea",
+    "local": "Guinée",
+    "pronunciation": "GIN-ee",
+    "aliases": ["gine"]
+  },
+
+  "guineabissau": {
+    "english": "Guinea-Bissau",
+    "local": "Guiné-Bissau",
+    "pronunciation": "GIN-ee bih-SOW",
+    "aliases": ["gine bissau"]
+  },
+
+  "guyana": {
+    "english": "Guyana",
+    "local": "Guyana",
+    "pronunciation": "guy-AH-na",
+    "aliases": ["guyana"]
+  },
+
+  "haiti": {
+    "english": "Haiti",
+    "local": "Ayiti",
+    "pronunciation": "HAY-tee",
+    "aliases": ["haiti"]
+  },
+
+  "honduras": {
+    "english": "Honduras",
+    "local": "Honduras",
+    "pronunciation": "hon-DUR-as",
+    "aliases": []
+  },
+
+  "jamaica": {
+    "english": "Jamaica",
+    "local": "Jamaica",
+    "pronunciation": "ja-MAY-ka",
+    "aliases": ["jamaika"]
+  },
+
+  "kiribati": {
+    "english": "Kiribati",
+    "local": "Kiribati",
+    "pronunciation": "kee-ree-BAHS",
+    "aliases": []
+  },
+
+  "lesotho": {
+    "english": "Lesotho",
+    "local": "Lesotho",
+    "pronunciation": "leh-SOO-too",
+    "aliases": []
+  },
+
+  "liberia": {
+    "english": "Liberia",
+    "local": "Liberia",
+    "pronunciation": "lie-BEER-ee-a",
+    "aliases": ["liberya"]
+  },
+
+  "liechtenstein": {
+    "english": "Liechtenstein",
+    "local": "Liechtenstein",
+    "pronunciation": "LIK-ten-shtine",
+    "aliases": []
+  },
+
+  "malawi": {
+    "english": "Malawi",
+    "local": "Malawi",
+    "pronunciation": "mah-LAH-wee",
+    "aliases": []
+  },
+
+  "mali": {
+    "english": "Mali",
+    "local": "Mali",
+    "pronunciation": "MAH-lee",
+    "aliases": []
+  },
+
+  "malta": {
+    "english": "Malta",
+    "local": "Malta",
+    "pronunciation": "MAL-ta",
+    "aliases": []
+  },
+
+  "mauritania": {
+    "english": "Mauritania",
+    "local": "Muritaniya",
+    "pronunciation": "mor-ih-TAY-nee-a",
+    "aliases": ["moritanya"]
+  },
+
+  "mauritius": {
+    "english": "Mauritius",
+    "local": "Maurice",
+    "pronunciation": "mor-ISH-us",
+    "aliases": ["mauritius"]
+  },
+
+  "micronesia": {
+    "english": "Micronesia",
+    "local": "Micronesia",
+    "pronunciation": "my-kro-NEE-zha",
+    "aliases": []
+  },
+
+  "moldova": {
+    "english": "Moldova",
+    "local": "Moldova",
+    "pronunciation": "mol-DO-va",
+    "aliases": []
+  },
+
+  "monaco": {
+    "english": "Monaco",
+    "local": "Monaco",
+    "pronunciation": "MON-ah-co",
+    "aliases": ["monako"]
+  },
+
+  "montenegro": {
+    "english": "Montenegro",
+    "local": "Crna Gora",
+    "pronunciation": "TSER-na GO-ra",
+    "aliases": ["karadağ"]
+  },
+
+  "mozambique": {
+    "english": "Mozambique",
+    "local": "Moçambique",
+    "pronunciation": "mo-zam-BEEK",
+    "aliases": ["mozambik"]
+  },
+
+  "namibia": {
+    "english": "Namibia",
+    "local": "Namibia",
+    "pronunciation": "na-MIB-ee-a",
+    "aliases": ["namibya"]
+  },
+
+  "nauru": {
+    "english": "Nauru",
+    "local": "Naoero",
+    "pronunciation": "nah-OO-roo",
+    "aliases": []
+  },
+
+  "nicaragua": {
+    "english": "Nicaragua",
+    "local": "Nicaragua",
+    "pronunciation": "nik-ah-RAH-gwa",
+    "aliases": ["nikaragua"]
+  },
+
+  "niger": {
+    "english": "Niger",
+    "local": "Niger",
+    "pronunciation": "nee-ZHER",
+    "aliases": ["nijer"]
+  },
+
+  "northmacedonia": {
+    "english": "North Macedonia",
+    "local": "Severna Makedonija",
+    "pronunciation": "seh-VER-na ma-keh-DON-ee-a",
+    "aliases": ["kuzey makedonya", "makedonya"]
+  },
+
+  "oman": {
+    "english": "Oman",
+    "local": "Oman",
+    "pronunciation": "oh-MAHN",
+    "aliases": []
+  },
+
+  "panama": {
+    "english": "Panama",
+    "local": "Panamá",
+    "pronunciation": "pan-ah-MAH",
+    "aliases": ["panama"]
+  },
+
+  "papuanewguinea": {
+    "english": "Papua New Guinea",
+    "local": "Papua Niugini",
+    "pronunciation": "pap-yoo-ah new GIN-ee",
+    "aliases": ["papua yeni gine"]
+  },
+
+  "paraguay": {
+    "english": "Paraguay",
+    "local": "Paraguay",
+    "pronunciation": "par-ah-GWAI",
+    "aliases": []
+  },
+
+  "rwanda": {
+    "english": "Rwanda",
+    "local": "Rwanda",
+    "pronunciation": "roo-AHN-da",
+    "aliases": ["ruanda"]
+  },
+
+  "saintlucia": {
+    "english": "Saint Lucia",
+    "local": "Sainte-Lucie",
+    "pronunciation": "saint LOO-sha",
+    "aliases": ["st lucia"]
+  },
+
+  "samoa": {
+    "english": "Samoa",
+    "local": "Samoa",
+    "pronunciation": "sa-MO-ah",
+    "aliases": []
+  },
+
+  "sanmarino": {
+    "english": "San Marino",
+    "local": "San Marino",
+    "pronunciation": "san ma-REE-no",
+    "aliases": []
+  },
+
+  "senegal": {
+    "english": "Senegal",
+    "local": "Sénégal",
+    "pronunciation": "sen-eh-GAL",
+    "aliases": ["senegal"]
+  },
+
+  "seychelles": {
+    "english": "Seychelles",
+    "local": "Seychelles",
+    "pronunciation": "say-SHELLS",
+    "aliases": ["seyşeller"]
+  },
+
+  "sierraleone": {
+    "english": "Sierra Leone",
+    "local": "Sierra Leone",
+    "pronunciation": "see-AIR-ah lee-OHN",
+    "aliases": ["sierra leone"]
+  },
+
+  "solomonislands": {
+    "english": "Solomon Islands",
+    "local": "Solomon Islands",
+    "pronunciation": "SOL-ah-mon islands",
+    "aliases": ["solomon adaları"]
+  },
+
+  "southsudan": {
+    "english": "South Sudan",
+    "local": "South Sudan",
+    "pronunciation": "south soo-DAN",
+    "aliases": ["güney sudan"]
+  },
+
+  "sudan": {
+    "english": "Sudan",
+    "local": "As-Sudan",
+    "pronunciation": "soo-DAN",
+    "aliases": ["sudan"]
+  },
+
+  "suriname": {
+    "english": "Suriname",
+    "local": "Suriname",
+    "pronunciation": "SUR-ih-nam",
+    "aliases": ["surinam"]
+  },
+
+  "tanzania": {
+    "english": "Tanzania",
+    "local": "Tanzania",
+    "pronunciation": "tan-zah-NEE-a",
+    "aliases": ["tanzanya"]
+  },
+
+  "timorleste": {
+    "english": "Timor-Leste",
+    "local": "Timor-Leste",
+    "pronunciation": "TEE-mor LEST",
+    "aliases": ["doğu timor"]
+  },
+
+  "togo": {
+    "english": "Togo",
+    "local": "Togo",
+    "pronunciation": "TOE-go",
+    "aliases": []
+  },
+
+  "tonga": {
+    "english": "Tonga",
+    "local": "Tonga",
+    "pronunciation": "TONG-ah",
+    "aliases": []
+  },
+
+  "trinidadandtobago": {
+    "english": "Trinidad and Tobago",
+    "local": "Trinidad and Tobago",
+    "pronunciation": "trin-ih-DAD and toh-BAY-go",
+    "aliases": ["trinidad"]
+  },
+
+  "tuvalu": {
+    "english": "Tuvalu",
+    "local": "Tuvalu",
+    "pronunciation": "too-VAH-loo",
+    "aliases": []
+  },
+
+  "uganda": {
+    "english": "Uganda",
+    "local": "Uganda",
+    "pronunciation": "you-GAN-da",
+    "aliases": ["uganda"]
+  },
+
+  "vanuatu": {
+    "english": "Vanuatu",
+    "local": "Vanuatu",
+    "pronunciation": "van-oo-AH-too",
+    "aliases": []
+  },
+
+  "vaticancity": {
+    "english": "Vatican City",
+    "local": "Città del Vaticano",
+    "pronunciation": "vat-ih-kan city",
+    "aliases": ["vatikan"]
+  },
+
+  "zambia": {
+    "english": "Zambia",
+    "local": "Zambia",
+    "pronunciation": "ZAM-bee-a",
+    "aliases": ["zambiya"]
   }
 }

@@ -53,8 +53,8 @@ if (
 }
 
   // SPECIFIC
-  const country =
-    findCountry(name);
+const country =
+  findCountry(cleanName);
 
   if (country) {
 
